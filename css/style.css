@@ -312,6 +312,11 @@ Contact
 .location-map {
   width: 55%;
 }
+/* iframe */
+iframe {
+  width: 100%;
+}
+
 /* フッター
 ------------------------------- */
 #footer {
